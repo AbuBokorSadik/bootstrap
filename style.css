@@ -1,17 +1,12 @@
-body{
-    /* background: gray; */
-}
-
-
 .container {
-    border: 0px solid black;
+    border: 2px solid black;
 }
 .row{
-    border: 0px solid red;
+    border: 2px solid red;
 }
 .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, 
 .col-9, .col-10, .col-11, .col-12 {
-    border: 0px solid green;
+    border: 1px solid green;
 }
 
 
